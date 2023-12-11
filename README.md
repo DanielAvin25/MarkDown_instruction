@@ -1,1 +1,1 @@
-# Create my_first_repositor
+# Create my_first_repository
